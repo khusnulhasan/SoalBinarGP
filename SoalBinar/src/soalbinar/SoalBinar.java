@@ -16,7 +16,8 @@ public class SoalBinar {
      */
     public static void main(String[] args) {
 //        Calculator c = new Calculator();
-        Perulangan p = new Perulangan();
+//        Perulangan p = new Perulangan();
+          Katak k = new Katak();
         
     }
     
