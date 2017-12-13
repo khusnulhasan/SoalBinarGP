@@ -15,7 +15,9 @@ public class SoalBinar {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Calculator c = new Calculator();
+//        Calculator c = new Calculator();
+        Perulangan p = new Perulangan();
+        
     }
     
 
